@@ -157,4 +157,4 @@ Setelah memasukkan data, pengguna ditanya apakah ingin menambahkan mahasiswa lai
 Menampilkan Data: Setelah semua data dimasukkan, program memanggil metode tampilkan_mahasiswa dari kelas Tampilan untuk menampilkan daftar mahasiswa.
 
 # Hasil Program Saya:
-![foto]()
+![foto](https://github.com/ridhofebriann/Project-UAS/blob/main/hasil.png?raw=true)

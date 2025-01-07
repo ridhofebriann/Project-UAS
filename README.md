@@ -9,7 +9,7 @@ Mata kuliah : Bahasa Pemrograman <p>
 
 # Project-UAS BAHASA PEMROGRAMAN
 
-![tugas]()
+![tugas](https://github.com/ridhofebriann/Project-UAS/blob/main/tugas%20uas.png?raw=true)
 
 # 1. class mahasiswa (class data)
 ```python
